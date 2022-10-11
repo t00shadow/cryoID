@@ -47,6 +47,7 @@ Now you should be able to run cryoID.
 
 If you want to work on the source codes (python 2.7), [Anaconda](https://www.anaconda.com/distribution/) is recommended.
 
+[Please contact Qibo Xu for help via xuqibo@ucla.edu when you failed to run cryoID. (eddited @10/11/2022)]
 
 ## Usage
 
